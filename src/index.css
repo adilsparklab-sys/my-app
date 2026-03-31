@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+
+.demo-button-text {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.demo-button:hover .demo-button-text {
+  transform: translateY(-2px);
+}
+
+.button-hover {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.button-hover:hover .button-text {
+  transform: translateY(-3px); /* Text slides up */
+}
+
+.button-hover:hover svg {
+  transform: rotate(20deg) scale(1.1); /* Icon rotates + slightly grows */
+}
+
+.button-hover svg,
+.button-hover .button-text {
+  transition: all 0.3s ease;
+}
