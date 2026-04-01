@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex flex-col lg:flex-row lg:items-start gap-40">
           <div className=".flex-shrink-0">
-            <img src="src/assets/logo-footer.png" alt="Logo" className="w-36" />
+            <img src="./public/assets/logo-footer.png" alt="Logo" className="w-36" />
           </div>
 
           <div className="flex flex-1 flex-wrap gap-12 lg:gap-50">
