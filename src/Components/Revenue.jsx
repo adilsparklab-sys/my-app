@@ -10,7 +10,7 @@ const Revenue = () => {
 
         <div className="relative w-32 h-20">
           <img
-            src="src/assets/span.png"
+            src="../assets/span.png"
             alt="Revenue"
             className="w-full h-full object-contain rounded-lg"
           />

@@ -5,27 +5,27 @@ export default function Testimonials() {
     {
       name: "Ally Masi",
       role: "Director of Industries Events Marketing",
-      photo: "src/assets/alli..png",
+      photo: "../assets/alli..png",
       quote:
         "We chose Welcome because it’s intuitive, beautifully designed, and made for attendee interaction, making it the perfect way to uplevel our experiences. The Slack-like chat, on-stage Q&A, and polling has increased audience engagement.",
     },
     {
       name: "Talisha Brantley",
       role: "VP of Events",
-      photo: "src/assets/TalishaBrantley.png",
+      photo: "../assets/TalishaBrantley.png",
       quote:
         "“Before Welcome, I had to get a switcher, use Ecamm, OBS and always needed this or that to make it all work. Now, one or two people can run our virtual events easily without any special equipment. With just one platform, we can do everything we want.”",
     },
     {
       name: "Sare",
       role: "Event Coordinator",
-      photo: "src/assets/sare.png",
+      photo: "../assets/sare.png",
       quote: "The Welcome experience has been 10 out of 10. When our sponsors like Facebook are considering sponsoring our events, Welcome is our secret weapon",
     },
     {
       name: "Alex John",
       role: "Product Manager",
-      photo: "src/assets/Alex.jpg",
+      photo: "../assets/Alex.jpg",
       quote: "Working with this platform has transformed the way we engage with our audience. The interface is intuitive, and the support team is always there when we need them. Highly recommend!",
     },
   ];

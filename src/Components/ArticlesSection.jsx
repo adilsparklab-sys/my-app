@@ -3,17 +3,17 @@ import React from "react";
 const articles = [
   {
     title: "8 Creative Ways to Repurpose Your Webinar Content",
-    image: "src/assets/RepurposeContent.png",
+    image: "../assets/RepurposeContent.png",
   },
   {
     title:
       "Why Webinars Are the #1 Lead Generation Marketing Strategy, You May Not Be Thinking About",
-    image: "src/assets/leadgen-email.png",
+    image: "../assets/leadgen-email.png",
   },
   {
     title:
       "How to Drive Qualified Pipeline and Enable Sales After Your Webinar Wraps",
-    image: "src/assets/qualified.png",
+    image: "../assets/qualified.png",
   },
 ];
 
@@ -31,7 +31,6 @@ const ArticlesSection = () => {
               key={index}
               className="bg-white rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-500 flex flex-col cursor-pointer overflow-hidden"
             >
-
               <div className="w-full h-64 relative">
                 <img
                   src={article.image}

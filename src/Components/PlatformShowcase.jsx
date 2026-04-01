@@ -49,7 +49,6 @@ const PlatformShowcase = () => {
           </h3>
         </div>
 
-        {/* grid of items */}
         <div className="mt-16 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-6 md:gap-8">
           {items.map((item, index) => (
             <div

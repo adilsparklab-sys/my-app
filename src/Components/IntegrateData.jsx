@@ -12,7 +12,7 @@ export default function IntegrateData() {
           <div className="flex flex-col md:flex-row items-center gap-4 md:gap-6">
             <div className="w-40 h-40 md:w-64 md:h-64 flex-shrink-0">
               <img
-                src="src/assets/data.png"
+                src="../assets/data.png"
                 alt="Your Data"
                 className="w-full h-full object-contain rounded-lg"
               />
@@ -36,14 +36,14 @@ export default function IntegrateData() {
             </div>
             <div className="w-[120px] h-[120px] bg-white rounded-full shadow-sm flex items-center justify-center">
               <img
-                src="src/assets/office-logo.png"
+                src="../assets/office-logo.png"
                 alt="icon"
                 className="w-10 h-10 object-contain"
               />
             </div>
             <div className="w-[120px] h-[120px] bg-white rounded-full shadow-sm flex items-center justify-center">
               <img
-                src="src/assets/hubspot.png"
+                src="../assets/hubspot.png"
                 alt="icon"
                 className="w-10 h-10 object-contain"
               />
@@ -56,7 +56,7 @@ export default function IntegrateData() {
             </div>
             <div className="w-[120px] h-[120px] bg-white rounded-full shadow-sm flex items-center justify-center">
               <img
-                src="src/assets/saleforce.png"
+                src="../assets/saleforce.png"
                 alt="icon"
                 className="w-10 h-10 object-contain"
               />

@@ -3,7 +3,6 @@ import React from "react";
 const ExperienceSection = () => {
   return (
     <section className="bg-white py-16">
-      {/* Text container */}
       <div className="max-w-4xl mx-auto px-6 text-center">
         <h1 className="text-black text-4xl md:text-6xl font-semibold mb-4">
           Experience Welcome
@@ -21,7 +20,7 @@ const ExperienceSection = () => {
 
       <div className="mt-12 w-full">
         <img
-          src="src/assets/Ex-imges.png"
+          src="../assets/Ex-imges.png"
           alt="Experience"
           className="w-full h-auto object-cover"
         />

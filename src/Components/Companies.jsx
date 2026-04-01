@@ -36,18 +36,18 @@ export default function Companies() {
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-2 gap-y-8 gap-x-12 opacity-60 text-gray-400">
-          <img src="src/assets/adobe.png" alt="" />
-          <img src="src/assets/square.png" alt="" />
-          <img src="src/assets/brex.png" alt="" />
-          <img src="src/assets/broadcom.png" alt="" />
-          <img src="src/assets/checkr.png" alt="" />
-          <img src="src/assets/motive.png" alt="" />
-          <img src="src/assets/nba.png" alt="" />
-          <img src="src/assets/sendoso.png" alt="" />
-          <img src="src/assets/twilio.png" alt="" />
-          <img src="src/assets/univision.png" alt="" />
-          <img src="src/assets/wordmark.png" alt="" />
-          <img src="src/assets/zendesk.png" alt="" />
+          <img src="../assets/adobe.png" alt="" />
+          <img src="../assets/square.png" alt="" />
+          <img src="../assets/brex.png" alt="" />
+          <img src="../assets/broadcom.png" alt="" />
+          <img src="../assets/checkr.png" alt="" />
+          <img src="../assets/motive.png" alt="" />
+          <img src="../assets/nba.png" alt="" />
+          <img src="../assets/sendoso.png" alt="" />
+          <img src="../assets/twilio.png" alt="" />
+          <img src="../assets/univision.png" alt="" />
+          <img src="../assets/wordmark.png" alt="" />
+          <img src="../assets/zendesk.png" alt="" />
         </div>
       </div>
     </section>

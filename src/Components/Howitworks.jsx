@@ -31,7 +31,7 @@ export default function HowItWorks() {
         title="Create"
         description="Welcome Studio gives you all the tools you need to create and host virtual experiences that look awesome and put your brand centerstage."
         gradient="from-purple-400 to-pink-400"
-        image="src/assets/work1.png"
+        image="../assets/work1.png"
       />
 
       <Divider />
@@ -41,7 +41,7 @@ export default function HowItWorks() {
         title="Engage"
         description="Cut through the yawns, grab your audiences attention, and turn passive attendees into active participants."
         gradient="from-orange-400 to-purple-400"
-        image="src/assets/work2.png"
+        image="../assets/work2.png"
       />
 
       <Divider />
@@ -51,7 +51,7 @@ export default function HowItWorks() {
         title="Analyze"
         description="Track the success of your events with deep insights and analytics measured across the entire attendee experience."
         gradient="from-pink-400 to-red-400"
-        image="src/assets/work3.png"
+        image="../assets/work3.png"
       />
     </section>
   );

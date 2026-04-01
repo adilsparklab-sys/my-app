@@ -5,7 +5,7 @@ const Services = () => {
     <section
       className="relative text-white min-h-[550px] md:min-h-[700px] py-24 px-6 md:px-20 bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: "url('src/assets/section-bg.png')",
+        backgroundImage: "url('../assets/section-bg.png')",
       }}
     >
       <div className="absolute inset-0 bg-black/20"></div>

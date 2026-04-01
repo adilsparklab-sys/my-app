@@ -3,9 +3,8 @@ import React from "react";
 export default function Navbar() {
   return (
     <nav className="flex justify-between items-center px-10 py-5 border-b border-gray-800">
-      
       <div className="text-xl font-semibold flex items-center gap-2">
-        <img src="src/assets/logowelcome.svg.png" alt="" />
+        <img src="../assets/logowelcome.svg.png" alt="" />
       </div>
 
       <ul className="hidden md:flex gap-8 text-gray-300">
@@ -23,7 +22,6 @@ export default function Navbar() {
           Demo
         </button>
       </div>
-
     </nav>
   );
 }

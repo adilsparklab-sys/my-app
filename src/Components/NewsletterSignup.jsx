@@ -15,7 +15,7 @@ const NewsletterSignup = () => {
   return (
     <div
       className="w-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8 bg-cover bg-center"
-      style={{ backgroundImage: "url('src/assets/News-.png')" }}
+      style={{ backgroundImage: "url('../assets/News-.png')" }}
     >
       <div className="flex flex-col md:flex-row w-full max-w-6xl rounded-2xl shadow-lg overflow-hidden">
         <div className="md:w-1/2 p-8 sm:p-12 flex flex-col justify-center text-white bg-cover bg-center">

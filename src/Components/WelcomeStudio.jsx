@@ -31,7 +31,7 @@ const WelcomeStudio = () => {
 
         <div className="absolute bottom-0 right-0">
           <img
-            src="src/assets/powered-agenda.png"
+            src="../assets/powered-agenda.png"
             alt="agenda"
             className="w-full max-w-md object-contain"
           />
@@ -48,7 +48,7 @@ const WelcomeStudio = () => {
             templates.
           </p>
           <img
-            src="src/assets/brand.png"
+            src="../assets/brand.png"
             alt="Card 1"
             className="absolute -bottom-4 -right-4 w-70 h-70 object-contain z-0"
           />
@@ -63,7 +63,7 @@ const WelcomeStudio = () => {
             directly in the Welcome platform.
           </p>
           <img
-            src="src/assets/stage-kit.png"
+            src="../assets/stage-kit.png"
             alt="Card 2"
             className="absolute -bottom-4 -right-4 w-70 h-70 object-contain z-0"
           />
@@ -78,7 +78,7 @@ const WelcomeStudio = () => {
             stage.
           </p>
           <img
-            src="src/assets/green-room.png"
+            src="../assets/green-room.png"
             alt="Card 3"
             className="absolute -bottom-4 -right-4 w-70 h-70 object-contain z-0"
           />

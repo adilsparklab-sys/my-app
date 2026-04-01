@@ -13,7 +13,7 @@ function Experience() {
       </div>
       <div
         className="rounded-2xl p-40 top-10 mb-20 grid md:grid-cols-2 gap-20 items-center mt-10 md:mt-20 w-full object-contain"
-        style={{ backgroundImage: "url('src/assets/experince-bg.png')" }}
+        style={{ backgroundImage: "url('../assets/experince-bg.png')" }}
       >
         <div className="text-left ml-0">
           <h3 className="text-2xl font-semibold mb-2">Interactive overlays</h3>
@@ -27,7 +27,7 @@ function Experience() {
       <div className="flex flex-col max-h-\[420px\] md:flex-row gap-6 mb-6">
         <div
           className="flex-1 rounded-2xl p-6 text-left bg-cover bg-center"
-          style={{ backgroundImage: "url('src/assets/node.png')" }}
+          style={{ backgroundImage: "url('../assets/node.png')" }}
         >
           <h3 className="text-2xl font-semibold mb-2 text-black">
             Interactive Polls
@@ -41,7 +41,7 @@ function Experience() {
 
         <div
           className="flex-1 rounded-2xl p-6 text-left bg-cover bg-center"
-          style={{ backgroundImage: "url('src/assets/node1.png')" }}
+          style={{ backgroundImage: "url('../assets/node1.png')" }}
         >
           <h3 className="text-2xl font-semibold mb-4 text-white">
             HD Video Quality
@@ -53,12 +53,12 @@ function Experience() {
 
           <div className="flex flex-col items-center gap-4">
             <img
-              src="src/assets/experience-video-text.png"
+              src="../assets/experience-video-text.png"
               alt="Experience Video Text"
               className="w-auto h-20"
             />
             <img
-              src="src/assets/video-image.png"
+              src="../assets/video-image.png"
               alt="Video Image"
               className="w-auto h-40"
             />
@@ -69,7 +69,7 @@ function Experience() {
       <div className="flex flex-col max-h-\[300px\] md:flex-row gap-6">
         <div
           className="flex-1 rounded-2xl p-6 text-left bg-cover bg-center relative"
-          style={{ backgroundImage: "url('src/assets/node-bg.png')" }}
+          style={{ backgroundImage: "url('../assets/node-bg.png')" }}
         >
           <div className="relative z-10">
             <h3 className="text-2xl font-semibold mb-2 text-white">Q&A</h3>
@@ -81,7 +81,7 @@ function Experience() {
 
           <div className="mt-4">
             <img
-              src="src/assets/experience-qa-card.png"
+              src="../assets/experience-qa-card.png"
               alt="Q&A"
               className="w-full rounded-2xl object-cover"
             />
@@ -90,7 +90,7 @@ function Experience() {
 
         <div
           className="flex-1 rounded-2xl p-6 bg-cover bg-center flex items-center gap-6"
-          style={{ backgroundImage: "url('src/assets/node1-bg.png')" }}
+          style={{ backgroundImage: "url('../assets/node1-bg.png')" }}
         >
           <div className="flex-1 text-left">
             <h3 className="text-2xl font-semibold mb-2 text-black">Chat</h3>
@@ -102,7 +102,7 @@ function Experience() {
           </div>
           <div className="flex-1 flex justify-end">
             <img
-              src="src/assets/chat.png"
+              src="../assets/chat.png"
               alt="Interactive Feature"
               className="w-full max-w-sm rounded-lg"
             />

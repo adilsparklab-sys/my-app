@@ -4,7 +4,7 @@ const JoinUsSection = () => {
   return (
     <div className="bg-indigo-50 py-12 px-6">
       <div className="max-w-5xl mx-auto flex flex-col gap-6">
-        {/* Top heading + right button */}
+
         <div className="flex items-center justify-between mb-6">
           <h2 className="text-indigo-600 font-semibold text-[65px] uppercase tracking-wider">
             Join Us
@@ -36,7 +36,7 @@ const JoinUsSection = () => {
 
           <div className="flex-shrink-0 w-full md:w-1/3">
             <img
-              src="src/assets/joinUs.png"
+              src="../assets/joinUs.png"
               alt="Event"
               className="rounded-2xl w-full h-full object-cover shadow-lg"
             />
